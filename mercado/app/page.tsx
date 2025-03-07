@@ -1,5 +1,5 @@
 import ListaDeCompras from "@/components/listaDeCompra";
-import { listaData,listaFrutas } from "../data/listadata"
+import { listaData,listaFrutas } from "../data/listaData"
 
 function page(){
   return(

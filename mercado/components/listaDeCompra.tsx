@@ -1,7 +1,7 @@
 //CRIAR DENTRO DA PASTA COMPONETS
  
 //Importamos o tipo de Item
-import {item}from '../data/listadata';
+import {item}from '../data/listaData';
  
 //Definimos o formato da interface de props, com o componente listadeCompras
 //lista de intens (array de item)
